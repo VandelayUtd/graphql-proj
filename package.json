@@ -19,7 +19,10 @@
   "homepage": "https://github.com/VandelayUtd/graphql-proj#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "graphiql": "^2.2.0",
     "graphql": "^16.6.0",
-    "graphql-http": "^1.16.0"
+    "graphql-http": "^1.16.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
