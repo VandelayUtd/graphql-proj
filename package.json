@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/VandelayUtd/graphql-proj#readme",
   "dependencies": {
+    "@graphql-tools/schema": "^9.0.16",
     "express": "^4.18.2",
     "graphiql": "^2.2.0",
     "graphql": "^16.6.0",
